@@ -8,10 +8,13 @@ the most updated driver(their updates come very often)
 - You can install the libraries by running this command pip install <library name> in your command prompt.
 
 Chromedriver link: https://chromedriver.chromium.org/
+
 python libraries: 1. https://biopython.org/docs/1.76/api/Bio.SeqIO.FastaIO.html
                   2. https://pypi.org/project/selenium/
                   3. https://pandas.pydata.org/docs/
+                  
 python : https://docs.python.org/3/library/time.html
+
 swiss model website: https://swissmodel.expasy.org/interactive
 
 
