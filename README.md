@@ -18,3 +18,4 @@ python : https://docs.python.org/3/library/time.html
 swiss model website: https://swissmodel.expasy.org/interactive
 
 Yow will find detailed comments in order to run the files. 
+First you need to run, Conversion.py file then Complete_sorting.py file and then at last you will run the FABP.py or OABP.py file.
